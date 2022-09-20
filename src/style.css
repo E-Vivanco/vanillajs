@@ -1,1 +1,28 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+html,
+body {
+  margin: 0;
+  background-color: aqua;
+}
+img {
+  width: 100px;
+  height: 100px;
+}
+.container-fluid,
+.mt-5 {
+  text-align: center;
+}
+#My-resp,
+#btn {
+  text-align: center;
+}
+button {
+  color: blue;
+  border-radius: 10px;
+}
+button:hover {
+  background: scroll;
+  border-radius: 10px;
+}
+img {
+  align-content: center;
+}
